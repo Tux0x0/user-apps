@@ -29,3 +29,7 @@ Ich wünsche dir viel Spaß!
 
 Liebe Grüße
 Dein James
+
+PS: Bei technischen Herausforderungen benenne die App um und / oder führe einige Änderungen am Quellcode durch.
+Um die App umzubenennen, ändere den Namen des Verzeichnisses, in dem sich die App befindet.
+Außerdem kannst du den App-Name in der Datei app.config ändern.
